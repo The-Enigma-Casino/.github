@@ -1,12 +1,33 @@
-## Hi there 👋
+![portada](/img/Portada.png)
+# The Enigma Casino
 
-<!--
+**Enigma Casino** es una plataforma online multijugador donde los usuarios pueden disfrutar de juegos clásicos de casino como **Blackjack**, **Póker** y **Ruleta** y otros mini juegos. El sistema está diseñado para ofrecer partidas en tiempo real entre varios jugadores, con interacción directa a través de WebSockets, un diseño moderno y una experiencia inmersiva.
+ 
+## 👨‍💻 Autores del proyecto
+- Alejandro Barrionuevo Rosado 
+- Raquel López Bermúdez 
+- José Molina Meléndez
+ 
+## 🛠️ Tecnologías utilizadas
+ 
+### Backend
+- **Lenguaje:** C#  
+- **Framework:** .NET 8  
+- **Persistencia:** Entity Framework Core  
+- **Comunicación en tiempo real:** WebSockets  
+- **Base de datos:** MySQL y SQLite  
+ 
+### Frontend
+- **Framework:** React  
+- **Gestión de estado:** Effector  
+- **Estilos:** Tailwind CSS y CSS
+- **Consumo WebSocket:** Cliente personalizado con reconexión automática  
 
-**Here are some ideas to get you started:**
+### Despliegue
+- **AWS**
+- **Vercel**
+- **MonsterASP**
+ 
+## 📗 Anteproyecto
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Notion](https://aquatic-breadfruit-03f.notion.site/Anteproyecto-de-The-Enigma-Casino-1c25df69c5bd801f898bc5d9760d4172)
